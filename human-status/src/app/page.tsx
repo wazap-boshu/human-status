@@ -13,7 +13,6 @@ export default function Home() {
           </Typography>
         <Button
           // TODO: クリック時 最初の質問へ
-          variant=""
         >
           開始する
         </Button> 
